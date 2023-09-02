@@ -1,6 +1,6 @@
 # Binance LOB Data Collector
 
-This Python script is designed to collect and store Level Order Book (LOB) data from Binance, a cryptocurrency exchange. It utilizes the Binance WebSocket API to receive real-time updates and save the data in CSV format. The script is intended for users who want to capture historical LOB data for analysis and research purposes.
+This Python script is designed to collect and store Limit Order Book (LOB) data from Binance, a cryptocurrency exchange. It utilizes the Binance WebSocket API to receive real-time updates and save the data in CSV format. The script is intended for users who want to capture historical LOB data for analysis and research purposes.
 
 ## Prerequisites
 
